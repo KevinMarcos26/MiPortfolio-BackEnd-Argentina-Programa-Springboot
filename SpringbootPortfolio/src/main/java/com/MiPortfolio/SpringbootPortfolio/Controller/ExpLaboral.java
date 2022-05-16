@@ -26,7 +26,7 @@ import com.MiPortfolio.SpringbootPortfolio.service.ExpLaboralService;
 
 
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://arcane-stack-350307.web.app")
 @RestController
 @RequestMapping("/explaboral")
 public class ExpLaboral {
