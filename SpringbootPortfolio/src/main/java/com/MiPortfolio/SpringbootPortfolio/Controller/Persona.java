@@ -23,7 +23,7 @@ import com.MiPortfolio.SpringbootPortfolio.model.Persona;
 
 import com.MiPortfolio.SpringbootPortfolio.service.PersonaService;
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://arcane-stack-350307.web.app")
 @RestController
 @RequestMapping("/home")
 public class Persona {
