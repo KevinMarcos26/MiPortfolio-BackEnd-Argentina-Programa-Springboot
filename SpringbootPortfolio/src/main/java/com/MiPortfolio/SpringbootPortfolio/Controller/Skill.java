@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.MiPortfolio.SpringbootPortfolio.model.Skill;
 import com.MiPortfolio.SpringbootPortfolio.service.SkillService;
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://arcane-stack-350307.web.app")
 @RestController
 @RequestMapping("/skills")
 public class Skill {
